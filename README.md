@@ -14,6 +14,8 @@ An Enigma window will open.
 
 Select File > Export Sources and export the source code, deobfuscated and decompiled.
 
+This process will take a while.
+
 ## Requirements
 
 Java 16
